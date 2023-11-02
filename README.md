@@ -1,5 +1,9 @@
 # CodeMeowWorkstation
 
+![Cat Image](./img/ex1.png)
+![Cat Image](./img/ex2.png)
+![Cat Image](./img/ex3.png)
+
 Welcome to the Code Meow Workstation project. This open-source project. A website that collects pictures of computer desks and cats from everyone.
 
 ## Getting Started

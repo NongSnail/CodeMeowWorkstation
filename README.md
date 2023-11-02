@@ -1,8 +1,6 @@
 # CodeMeowWorkstation
 
-<img src="./img/ex1.png" width="160"/>
-<img src="./img/ex2.png" width="160"/>
-<img src="./img/ex3.png" width="160"/>
+<img src="./img/ex1.png">
 
 Welcome to the Code Meow Workstation project. This open-source project. A website that collects pictures of computer desks and cats from everyone.
 
